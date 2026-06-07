@@ -5,3 +5,4 @@ Add validation page
 Update homepage
 =======
 add payment gateway
+sniodjognre
